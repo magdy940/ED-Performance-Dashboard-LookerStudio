@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,VisitDate,TriageLevel,WaitTimeMinutes,Diagnosis,Disposition,Return72h
+ED0001,51,Female,2024-09-19,3,32,Other,Discharged,No
+ED0002,14,Male,2024-03-20,2,201,Abdominal Pain,Discharged,No
+ED0003,71,Female,2024-09-08,2,195,Fever,Left Without Being Seen,No
+ED0004,60,Female,2024-04-06,4,55,Infection,Discharged,Yes
+ED0005,20,Female,2024-09-16,3,153,Other,Discharged,No
+ED0006,82,Female,2024-09-16,4,272,Chest Pain,Discharged,No
+ED0007,86,Female,2024-04-12,4,54,Other,Discharged,No
+ED0008,74,Male,2024-02-09,2,250,Chest Pain,Discharged,No
+ED0009,74,Male,2024-09-29,3,117,Infection,Discharged,Yes
+ED0010,87,Female,2024-04-10,3,174,Trauma,Discharged,Yes
+ED0011,23,Female,2024-12-24,2,170,Chest Pain,Discharged,No
+ED0012,2,Male,2024-11-03,4,18,Fever,Discharged,No
+ED0013,21,Female,2024-08-08,3,207,Abdominal Pain,Discharged,No
+ED0014,52,Female,2024-11-03,2,292,Fever,Left Without Being Seen,No
+ED0015,1,Male,2024-05-03,3,193,Chest Pain,Admitted,No
+ED0016,87,Female,2024-08-18,5,159,Headache,Discharged,No
+ED0017,29,Female,2024-06-26,2,59,Other,Discharged,No
+ED0018,37,Female,2024-03-03,4,186,Fever,Admitted,No
+ED0019,1,Female,2024-04-25,2,214,Trauma,Discharged,No
+ED0020,63,Male,2024-07-09,4,79,Fever,Admitted,No
+ED0021,59,Female,2024-03-02,4,281,Chest Pain,Admitted,No
+ED0022,20,Male,2024-09-12,3,137,Infection,Discharged,No
+ED0023,32,Male,2024-01-07,3,63,Infection,Discharged,No
+ED0024,75,Female,2024-06-03,4,186,Headache,Left Without Being Seen,No
+ED0025,57,Male,2024-04-01,3,68,Fever,Discharged,Yes
+ED0026,21,Male,2024-01-14,4,264,Shortness of Breath,Discharged,No
+ED0027,88,Female,2024-08-16,2,197,Headache,Discharged,No
+ED0028,48,Male,2024-03-26,4,147,Infection,Discharged,No
+ED0029,90,Male,2024-05-12,4,108,Abdominal Pain,Discharged,No
+ED0030,58,Female,2024-07-01,5,218,Shortness of Breath,Admitted,Yes
+ED0031,41,Female,2024-03-02,2,246,Headache,Left Without Being Seen,No
+ED0032,59,Male,2024-08-06,3,213,Fever,Discharged,Yes
+ED0033,79,Female,2024-09-02,3,97,Other,Discharged,No
+ED0034,14,Male,2024-08-17,3,146,Headache,Discharged,No
+ED0035,61,Female,2024-03-19,3,116,Abdominal Pain,Discharged,No
+ED0036,61,Female,2024-05-28,1,63,Trauma,Discharged,No
+ED0037,46,Female,2024-05-17,4,47,Abdominal Pain,Left Without Being Seen,No
+ED0038,61,Female,2024-11-09,3,211,Headache,Admitted,No
+ED0039,50,Female,2024-03-05,1,272,Trauma,Discharged,No
+ED0040,54,Female,2024-01-13,3,300,Chest Pain,Discharged,Yes
+ED0041,63,Male,2024-07-31,3,122,Abdominal Pain,Discharged,No
+ED0042,2,Male,2024-08-29,1,24,Shortness of Breath,Discharged,No
+ED0043,50,Female,2024-07-31,5,226,Headache,Discharged,No
+ED0044,6,Male,2024-06-29,5,170,Trauma,Discharged,No
+ED0045,20,Female,2024-12-03,3,135,Abdominal Pain,Left Without Being Seen,No
+ED0046,72,Male,2024-06-21,1,160,Chest Pain,Discharged,No
+ED0047,38,Female,2024-06-08,4,188,Fever,Discharged,No
+ED0048,17,Male,2024-06-12,3,94,Trauma,Admitted,No
+ED0049,3,Male,2024-07-06,3,98,Trauma,Discharged,No
+ED0050,88,Female,2024-07-09,3,17,Trauma,Discharged,No
+ED0051,59,Male,2024-11-03,3,297,Fever,Discharged,No
+ED0052,13,Female,2024-09-12,3,234,Chest Pain,Discharged,No
+ED0053,8,Male,2024-07-01,3,296,Fever,Admitted,No
+ED0054,89,Male,2024-04-26,3,30,Headache,Discharged,No
+ED0055,52,Female,2024-10-08,5,79,Fever,Admitted,Yes
+ED0056,1,Male,2024-07-14,3,154,Fever,Discharged,No
+ED0057,83,Female,2024-02-03,4,152,Infection,Discharged,No
+ED0058,59,Female,2024-02-21,4,12,Chest Pain,Admitted,No
+ED0059,70,Female,2024-04-21,3,33,Headache,Discharged,No
+ED0060,43,Female,2024-09-08,3,300,Chest Pain,Discharged,No
+ED0061,7,Female,2024-03-22,3,213,Chest Pain,Discharged,No
+ED0062,46,Female,2024-08-19,3,132,Headache,Discharged,Yes
+ED0063,34,Male,2024-08-14,4,120,Headache,Discharged,No
+ED0064,77,Male,2024-08-20,3,148,Infection,Discharged,No
+ED0065,80,Male,2024-08-08,5,239,Headache,Discharged,No
+ED0066,35,Male,2024-02-11,1,11,Other,Discharged,No
+ED0067,49,Female,2024-01-21,1,49,Chest Pain,Left Without Being Seen,No
+ED0068,3,Female,2024-02-11,3,243,Chest Pain,Discharged,No
+ED0069,1,Male,2024-04-22,2,159,Chest Pain,Admitted,No
+ED0070,5,Male,2024-04-14,2,185,Trauma,Discharged,Yes
+ED0071,53,Male,2024-07-10,3,219,Headache,Discharged,No
+ED0072,3,Female,2024-01-17,2,92,Abdominal Pain,Admitted,No
+ED0073,53,Female,2024-04-29,1,260,Chest Pain,Discharged,No
+ED0074,62,Male,2024-05-08,5,77,Other,Admitted,No
+ED0075,17,Female,2024-05-09,2,183,Infection,Discharged,No
+ED0076,89,Female,2024-02-29,4,216,Trauma,Discharged,No
+ED0077,43,Male,2024-02-17,4,297,Chest Pain,Discharged,No
+ED0078,33,Female,2024-01-29,5,238,Trauma,Discharged,No
+ED0079,73,Female,2024-04-06,1,243,Chest Pain,Admitted,No
+ED0080,61,Male,2024-01-10,4,227,Chest Pain,Discharged,No
+ED0081,13,Male,2024-08-29,3,123,Headache,Left Without Being Seen,No
+ED0082,47,Male,2024-11-09,3,268,Trauma,Left Without Being Seen,No
+ED0083,14,Male,2024-08-19,3,211,Fever,Discharged,No
+ED0084,71,Female,2024-10-03,4,99,Other,Discharged,Yes
+ED0085,77,Female,2024-10-10,3,226,Abdominal Pain,Admitted,No
+ED0086,86,Male,2024-07-21,4,280,Other,Left Without Being Seen,No
+ED0087,61,Male,2024-09-03,3,235,Chest Pain,Discharged,No
+ED0088,39,Male,2024-10-16,4,123,Fever,Discharged,No
+ED0089,84,Male,2024-09-20,5,272,Headache,Discharged,No
+ED0090,79,Female,2024-08-01,2,277,Chest Pain,Discharged,Yes
+ED0091,81,Male,2024-07-18,5,68,Chest Pain,Discharged,No
+ED0092,52,Male,2024-03-19,1,15,Abdominal Pain,Admitted,No
+ED0093,23,Male,2024-12-08,1,102,Abdominal Pain,Discharged,No
+ED0094,25,Female,2024-12-09,1,75,Fever,Discharged,No
+ED0095,88,Male,2024-06-21,3,62,Fever,Discharged,No
+ED0096,59,Female,2024-03-09,3,294,Fever,Discharged,No
+ED0097,40,Male,2024-03-27,1,255,Chest Pain,Discharged,No
+ED0098,28,Female,2024-04-10,1,280,Trauma,Discharged,No
+ED0099,14,Female,2024-01-08,5,54,Trauma,Discharged,No
+ED0100,44,Male,2024-11-28,4,220,Chest Pain,Discharged,No
+ED0101,64,Male,2024-07-18,4,56,Other,Discharged,No
+ED0102,88,Female,2024-03-27,4,275,Headache,Left Without Being Seen,Yes
+ED0103,70,Female,2024-02-12,4,88,Shortness of Breath,Discharged,No
+ED0104,8,Male,2024-04-18,2,297,Trauma,Discharged,No
+ED0105,87,Male,2024-05-31,3,130,Fever,Discharged,No
+ED0106,0,Female,2024-01-17,4,300,Trauma,Left Without Being Seen,No
+ED0107,7,Female,2024-05-12,2,76,Chest Pain,Discharged,No
+ED0108,87,Male,2024-05-27,3,300,Trauma,Discharged,No
+ED0109,62,Female,2024-10-03,1,240,Shortness of Breath,Admitted,No
+ED0110,10,Male,2024-08-19,3,60,Abdominal Pain,Discharged,No
+ED0111,80,Female,2024-11-09,3,114,Headache,Discharged,No
+ED0112,7,Male,2024-12-31,3,196,Fever,Discharged,No
+ED0113,34,Male,2024-08-15,3,97,Other,Discharged,No
+ED0114,34,Male,2024-05-18,3,60,Chest Pain,Discharged,No
+ED0115,32,Female,2024-07-29,1,64,Trauma,Admitted,No
+ED0116,4,Male,2024-01-28,2,142,Trauma,Discharged,No
+ED0117,40,Male,2024-02-20,4,43,Shortness of Breath,Admitted,No
+ED0118,27,Male,2024-09-17,3,32,Other,Discharged,No
+ED0119,6,Male,2024-09-17,2,53,Trauma,Admitted,No
+ED0120,72,Female,2024-12-15,4,129,Infection,Discharged,No
+ED0121,71,Male,2024-12-17,2,17,Infection,Discharged,Yes
+ED0122,11,Female,2024-01-08,3,40,Trauma,Discharged,No
+ED0123,33,Female,2024-11-15,2,105,Fever,Left Without Being Seen,Yes
+ED0124,32,Female,2024-05-17,4,286,Fever,Discharged,No
+ED0125,47,Male,2024-02-07,3,90,Other,Discharged,No
+ED0126,22,Male,2024-04-20,2,8,Trauma,Discharged,No
+ED0127,61,Male,2024-08-07,4,227,Shortness of Breath,Discharged,No
+ED0128,87,Male,2024-12-02,3,170,Trauma,Discharged,Yes
+ED0129,36,Male,2024-08-10,2,282,Shortness of Breath,Discharged,No
+ED0130,43,Female,2024-05-15,2,134,Fever,Discharged,No
+ED0131,85,Male,2024-09-12,2,35,Headache,Discharged,No
+ED0132,90,Male,2024-12-25,1,15,Infection,Discharged,No
+ED0133,34,Female,2024-11-24,3,100,Infection,Discharged,No
+ED0134,64,Male,2024-02-18,4,194,Infection,Admitted,No
+ED0135,46,Female,2024-10-18,3,196,Chest Pain,Discharged,No
+ED0136,77,Female,2024-11-19,2,270,Abdominal Pain,Discharged,No
+ED0137,2,Male,2024-03-18,1,132,Chest Pain,Discharged,No
+ED0138,0,Female,2024-04-14,2,242,Fever,Left Without Being Seen,Yes
+ED0139,4,Female,2024-06-17,3,116,Headache,Left Without Being Seen,No
+ED0140,89,Female,2024-08-04,4,149,Fever,Admitted,No
+ED0141,13,Male,2024-04-28,2,69,Headache,Discharged,No
+ED0142,26,Male,2024-07-08,4,251,Other,Discharged,No
+ED0143,8,Female,2024-09-11,4,227,Chest Pain,Discharged,No
+ED0144,78,Male,2024-09-22,3,110,Abdominal Pain,Discharged,No
+ED0145,14,Male,2024-05-28,4,185,Fever,Discharged,Yes
+ED0146,89,Male,2024-06-12,3,188,Chest Pain,Admitted,No
+ED0147,41,Female,2024-05-19,3,230,Trauma,Admitted,Yes
+ED0148,76,Male,2024-12-12,3,269,Other,Admitted,No
+ED0149,50,Female,2024-09-14,3,282,Infection,Discharged,No
+ED0150,62,Female,2024-09-25,2,93,Other,Discharged,No
+ED0151,51,Female,2024-06-29,3,180,Other,Discharged,No
+ED0152,3,Female,2024-06-08,2,22,Trauma,Discharged,No
+ED0153,22,Female,2024-12-16,3,110,Fever,Admitted,No
+ED0154,14,Female,2024-10-14,2,275,Abdominal Pain,Discharged,No
+ED0155,42,Male,2024-10-14,5,171,Fever,Discharged,No
+ED0156,28,Female,2024-08-13,4,17,Fever,Discharged,No
+ED0157,35,Male,2024-01-11,3,36,Fever,Discharged,No
+ED0158,12,Male,2024-01-10,2,44,Headache,Admitted,No
+ED0159,31,Male,2024-09-27,4,152,Headache,Discharged,No
+ED0160,70,Female,2024-09-29,4,222,Trauma,Admitted,No
+ED0161,58,Male,2024-07-01,4,223,Fever,Discharged,No
+ED0162,85,Female,2024-06-01,2,86,Headache,Discharged,No
+ED0163,27,Female,2024-11-10,3,212,Headache,Admitted,Yes
+ED0164,65,Female,2024-11-29,2,205,Trauma,Discharged,No
+ED0165,41,Female,2024-05-03,2,42,Shortness of Breath,Left Without Being Seen,No
+ED0166,44,Female,2024-04-23,4,215,Chest Pain,Discharged,No
+ED0167,61,Female,2024-10-04,4,253,Fever,Discharged,No
+ED0168,56,Female,2024-07-31,3,231,Shortness of Breath,Discharged,No
+ED0169,5,Female,2024-06-20,4,52,Headache,Admitted,No
+ED0170,27,Female,2024-10-14,3,22,Trauma,Discharged,No
+ED0171,27,Female,2024-06-22,3,299,Abdominal Pain,Admitted,No
+ED0172,43,Male,2024-04-22,3,200,Headache,Discharged,No
+ED0173,83,Male,2024-05-01,5,191,Shortness of Breath,Discharged,No
+ED0174,29,Male,2024-02-01,1,228,Shortness of Breath,Discharged,No
+ED0175,61,Male,2024-08-09,5,233,Abdominal Pain,Discharged,No
+ED0176,74,Female,2024-04-28,4,81,Fever,Discharged,No
+ED0177,88,Female,2024-02-08,2,192,Chest Pain,Admitted,Yes
+ED0178,61,Female,2024-09-24,3,274,Trauma,Discharged,No
+ED0179,0,Male,2024-08-20,4,99,Fever,Discharged,No
+ED0180,26,Female,2024-01-18,3,136,Headache,Discharged,No
+ED0181,61,Female,2024-05-28,5,43,Headache,Discharged,Yes
+ED0182,76,Female,2024-05-28,5,76,Trauma,Discharged,No
+ED0183,2,Female,2024-05-05,3,285,Chest Pain,Discharged,Yes
+ED0184,69,Female,2024-10-28,3,164,Fever,Discharged,Yes
+ED0185,71,Male,2024-12-25,5,191,Trauma,Discharged,No
+ED0186,26,Female,2024-08-25,3,195,Shortness of Breath,Discharged,No
+ED0187,8,Male,2024-05-14,2,124,Chest Pain,Discharged,No
+ED0188,61,Male,2024-05-30,1,224,Headache,Discharged,No
+ED0189,36,Female,2024-08-23,3,57,Other,Discharged,No
+ED0190,50,Male,2024-08-11,5,226,Trauma,Discharged,Yes
+ED0191,43,Female,2024-07-21,4,135,Fever,Admitted,No
+ED0192,23,Male,2024-09-12,3,241,Chest Pain,Admitted,No
+ED0193,78,Female,2024-03-26,2,250,Abdominal Pain,Admitted,No
+ED0194,58,Male,2024-05-29,2,230,Headache,Discharged,No
+ED0195,31,Female,2024-08-22,4,212,Fever,Admitted,No
+ED0196,87,Female,2024-12-10,2,100,Headache,Admitted,No
+ED0197,51,Male,2024-01-22,2,204,Infection,Admitted,No
+ED0198,61,Female,2024-12-13,2,251,Trauma,Discharged,No
+ED0199,57,Female,2024-10-11,3,76,Chest Pain,Discharged,No
+ED0200,51,Male,2024-09-25,5,189,Infection,Admitted,No
+ED0201,11,Male,2024-09-14,2,10,Headache,Discharged,No
+ED0202,38,Male,2024-01-29,3,210,Infection,Discharged,No
+ED0203,1,Male,2024-07-31,3,36,Headache,Discharged,No
+ED0204,2,Female,2024-10-09,5,103,Infection,Discharged,Yes
+ED0205,55,Female,2024-02-19,2,260,Fever,Discharged,No
+ED0206,80,Male,2024-04-04,3,191,Shortness of Breath,Discharged,Yes
+ED0207,58,Male,2024-03-28,3,80,Other,Discharged,No
+ED0208,1,Female,2024-02-13,4,181,Headache,Discharged,No
+ED0209,1,Male,2024-10-04,3,291,Trauma,Discharged,No
+ED0210,53,Male,2024-06-19,2,259,Trauma,Discharged,No
+ED0211,86,Female,2024-07-07,3,194,Trauma,Discharged,No
+ED0212,0,Female,2024-12-18,4,131,Trauma,Discharged,No
+ED0213,18,Female,2024-07-02,1,291,Trauma,Admitted,Yes
+ED0214,1,Female,2024-01-03,4,258,Headache,Discharged,Yes
+ED0215,52,Female,2024-07-09,2,217,Headache,Discharged,No
+ED0216,43,Female,2024-04-27,3,254,Fever,Discharged,No
+ED0217,89,Male,2024-01-19,3,88,Abdominal Pain,Admitted,No
+ED0218,31,Male,2024-01-23,4,17,Chest Pain,Discharged,No
+ED0219,69,Male,2024-01-30,3,49,Chest Pain,Discharged,No
+ED0220,31,Male,2024-10-21,4,131,Trauma,Discharged,No
+ED0221,67,Female,2024-04-17,4,118,Headache,Discharged,No
+ED0222,54,Male,2024-10-07,3,280,Trauma,Admitted,No
+ED0223,74,Male,2024-05-07,4,209,Trauma,Admitted,No
+ED0224,55,Male,2024-08-16,4,277,Fever,Discharged,No
+ED0225,16,Male,2024-04-20,1,62,Infection,Discharged,Yes
+ED0226,37,Female,2024-05-15,3,223,Chest Pain,Discharged,No
+ED0227,23,Male,2024-12-27,5,113,Abdominal Pain,Discharged,No
+ED0228,68,Female,2024-07-04,2,283,Abdominal Pain,Discharged,No
+ED0229,69,Male,2024-05-23,4,178,Shortness of Breath,Discharged,No
+ED0230,85,Female,2024-03-12,5,268,Other,Discharged,No
+ED0231,10,Female,2024-05-08,1,115,Chest Pain,Discharged,No
+ED0232,15,Male,2024-12-29,3,191,Trauma,Admitted,No
+ED0233,72,Female,2024-09-17,3,273,Infection,Discharged,Yes
+ED0234,58,Male,2024-01-03,3,233,Fever,Admitted,No
+ED0235,69,Male,2024-04-13,1,160,Headache,Admitted,No
+ED0236,79,Female,2024-08-11,1,193,Abdominal Pain,Discharged,No
+ED0237,2,Male,2024-11-15,3,276,Abdominal Pain,Admitted,Yes
+ED0238,19,Male,2024-12-27,4,6,Other,Discharged,No
+ED0239,58,Female,2024-12-19,4,250,Other,Discharged,No
+ED0240,35,Male,2024-01-10,3,214,Shortness of Breath,Discharged,No
+ED0241,18,Female,2024-10-28,1,290,Trauma,Left Without Being Seen,No
+ED0242,89,Male,2024-08-18,3,17,Infection,Discharged,No
+ED0243,66,Female,2024-08-06,2,100,Chest Pain,Discharged,No
+ED0244,18,Female,2024-03-06,5,225,Trauma,Admitted,No
+ED0245,19,Female,2024-04-21,4,242,Infection,Discharged,No
+ED0246,70,Female,2024-01-13,4,98,Trauma,Discharged,No
+ED0247,51,Male,2024-03-26,5,273,Trauma,Admitted,No
+ED0248,32,Female,2024-08-21,1,175,Chest Pain,Admitted,No
+ED0249,39,Male,2024-03-30,4,98,Infection,Left Without Being Seen,No
+ED0250,38,Male,2024-11-09,3,153,Headache,Left Without Being Seen,No
+ED0251,81,Male,2024-02-23,5,116,Abdominal Pain,Discharged,Yes
+ED0252,0,Female,2024-01-12,2,59,Trauma,Admitted,Yes
+ED0253,10,Male,2024-07-27,4,120,Shortness of Breath,Discharged,No
+ED0254,56,Female,2024-01-14,4,147,Shortness of Breath,Discharged,Yes
+ED0255,88,Female,2024-04-30,1,205,Trauma,Discharged,No
+ED0256,49,Female,2024-01-20,3,184,Fever,Discharged,No
+ED0257,22,Male,2024-03-15,4,206,Trauma,Left Without Being Seen,No
+ED0258,30,Female,2024-08-30,3,57,Other,Admitted,No
+ED0259,41,Male,2024-08-10,2,184,Abdominal Pain,Discharged,No
+ED0260,6,Male,2024-03-10,2,141,Other,Discharged,No
+ED0261,15,Male,2024-11-07,2,186,Trauma,Discharged,No
+ED0262,89,Male,2024-07-29,4,5,Shortness of Breath,Admitted,No
+ED0263,59,Female,2024-04-10,3,48,Shortness of Breath,Admitted,Yes
+ED0264,1,Female,2024-07-04,1,231,Abdominal Pain,Discharged,No
+ED0265,0,Male,2024-05-11,3,102,Other,Discharged,No
+ED0266,47,Male,2024-04-20,3,212,Fever,Discharged,No
+ED0267,11,Male,2024-05-11,2,269,Chest Pain,Discharged,Yes
+ED0268,68,Male,2024-01-20,3,292,Abdominal Pain,Admitted,No
+ED0269,36,Female,2024-01-24,3,275,Shortness of Breath,Discharged,No
+ED0270,31,Male,2024-08-14,3,144,Headache,Discharged,No
+ED0271,8,Male,2024-06-02,4,241,Trauma,Discharged,No
+ED0272,18,Male,2024-10-19,2,76,Headache,Discharged,No
+ED0273,47,Female,2024-08-17,3,159,Trauma,Left Without Being Seen,No
+ED0274,79,Female,2024-11-05,3,194,Fever,Discharged,No
+ED0275,2,Female,2024-12-24,3,272,Abdominal Pain,Discharged,No
+ED0276,19,Female,2024-07-20,3,111,Shortness of Breath,Discharged,No
+ED0277,23,Female,2024-02-07,3,236,Trauma,Discharged,No
+ED0278,53,Male,2024-09-16,4,46,Fever,Discharged,No
+ED0279,32,Female,2024-07-06,3,194,Trauma,Admitted,No
+ED0280,23,Female,2024-02-26,3,143,Trauma,Discharged,No
+ED0281,74,Female,2024-01-20,4,107,Shortness of Breath,Discharged,No
+ED0282,71,Female,2024-09-29,3,175,Other,Discharged,No
+ED0283,35,Female,2024-04-28,2,277,Fever,Discharged,No
+ED0284,37,Female,2024-03-11,2,225,Shortness of Breath,Discharged,No
+ED0285,83,Female,2024-01-04,2,217,Infection,Discharged,No
+ED0286,88,Female,2024-08-08,4,60,Infection,Admitted,No
+ED0287,24,Female,2024-01-14,4,106,Trauma,Admitted,No
+ED0288,17,Female,2024-01-03,5,196,Other,Discharged,No
+ED0289,81,Male,2024-08-03,3,204,Fever,Discharged,No
+ED0290,65,Female,2024-08-16,3,237,Trauma,Discharged,No
+ED0291,53,Male,2024-12-01,1,231,Chest Pain,Discharged,No
+ED0292,34,Female,2024-07-04,3,143,Fever,Admitted,No
+ED0293,79,Female,2024-02-24,3,153,Chest Pain,Discharged,Yes
+ED0294,60,Female,2024-09-10,5,119,Trauma,Discharged,No
+ED0295,40,Male,2024-01-24,2,67,Trauma,Admitted,No
+ED0296,32,Male,2024-06-10,3,108,Infection,Admitted,No
+ED0297,67,Male,2024-06-06,3,160,Infection,Discharged,No
+ED0298,32,Female,2024-03-22,3,277,Trauma,Discharged,No
+ED0299,13,Male,2024-06-07,3,10,Infection,Discharged,No
+ED0300,20,Male,2024-07-06,4,151,Infection,Discharged,No
+ED0301,47,Male,2024-02-29,2,188,Shortness of Breath,Admitted,No
+ED0302,19,Female,2024-10-31,4,32,Chest Pain,Admitted,No
+ED0303,7,Female,2024-11-14,3,42,Abdominal Pain,Admitted,No
+ED0304,6,Male,2024-12-31,4,123,Other,Discharged,No
+ED0305,66,Male,2024-07-29,4,297,Abdominal Pain,Admitted,No
+ED0306,16,Female,2024-05-31,3,248,Trauma,Discharged,No
+ED0307,32,Female,2024-04-18,2,72,Headache,Discharged,No
+ED0308,47,Female,2024-03-16,5,218,Abdominal Pain,Discharged,No
+ED0309,75,Male,2024-01-30,3,222,Headache,Discharged,No
+ED0310,58,Female,2024-11-09,5,181,Chest Pain,Admitted,No
+ED0311,85,Male,2024-04-26,2,168,Trauma,Discharged,No
+ED0312,21,Female,2024-12-21,3,62,Infection,Discharged,No
+ED0313,29,Female,2024-07-10,4,273,Infection,Discharged,No
+ED0314,37,Male,2024-01-19,5,62,Chest Pain,Discharged,No
+ED0315,50,Male,2024-06-21,3,292,Other,Discharged,No
+ED0316,53,Female,2024-08-15,4,109,Trauma,Discharged,No
+ED0317,7,Female,2024-12-15,3,232,Abdominal Pain,Admitted,No
+ED0318,26,Female,2024-07-01,1,251,Shortness of Breath,Discharged,Yes
+ED0319,26,Female,2024-04-22,3,192,Infection,Discharged,No
+ED0320,20,Female,2024-07-01,3,87,Other,Discharged,No
+ED0321,29,Female,2024-05-25,5,190,Trauma,Admitted,No
+ED0322,27,Male,2024-11-14,3,256,Infection,Discharged,No
+ED0323,63,Female,2024-04-25,2,242,Chest Pain,Discharged,No
+ED0324,68,Male,2024-04-22,1,188,Shortness of Breath,Discharged,No
+ED0325,60,Male,2024-09-07,3,288,Shortness of Breath,Discharged,No
+ED0326,47,Female,2024-09-07,3,214,Abdominal Pain,Discharged,No
+ED0327,18,Male,2024-10-29,4,300,Trauma,Admitted,No
+ED0328,3,Male,2024-11-08,3,101,Infection,Discharged,No
+ED0329,34,Male,2024-04-27,5,212,Trauma,Discharged,No
+ED0330,63,Female,2024-10-27,5,141,Chest Pain,Admitted,Yes
+ED0331,48,Male,2024-06-09,3,188,Shortness of Breath,Discharged,No
+ED0332,16,Male,2024-07-16,5,80,Fever,Discharged,No
+ED0333,43,Male,2024-09-16,4,291,Infection,Discharged,No
+ED0334,29,Male,2024-05-27,3,146,Fever,Discharged,No
+ED0335,45,Male,2024-08-27,2,241,Trauma,Discharged,No
+ED0336,5,Male,2024-02-16,3,29,Infection,Discharged,No
+ED0337,36,Female,2024-07-16,3,294,Headache,Admitted,No
+ED0338,23,Male,2024-02-16,4,71,Trauma,Left Without Being Seen,No
+ED0339,45,Male,2024-03-18,3,254,Shortness of Breath,Discharged,No
+ED0340,52,Male,2024-05-03,4,122,Headache,Discharged,No
+ED0341,59,Male,2024-03-15,3,77,Abdominal Pain,Discharged,No
+ED0342,62,Female,2024-12-24,2,286,Fever,Admitted,No
+ED0343,84,Female,2024-05-16,5,14,Infection,Discharged,No
+ED0344,31,Male,2024-03-30,3,215,Infection,Discharged,No
+ED0345,86,Male,2024-11-20,3,156,Shortness of Breath,Admitted,No
+ED0346,32,Male,2024-03-01,3,9,Chest Pain,Admitted,No
+ED0347,66,Female,2024-05-17,2,199,Infection,Admitted,No
+ED0348,17,Female,2024-02-19,3,287,Abdominal Pain,Discharged,No
+ED0349,24,Female,2024-09-15,3,117,Abdominal Pain,Admitted,No
+ED0350,53,Male,2024-04-16,3,275,Fever,Admitted,No
+ED0351,57,Female,2024-04-22,5,167,Infection,Discharged,No
+ED0352,66,Male,2024-12-15,3,109,Shortness of Breath,Discharged,No
+ED0353,45,Male,2024-09-10,2,185,Chest Pain,Discharged,Yes
+ED0354,23,Male,2024-04-27,3,48,Fever,Left Without Being Seen,No
+ED0355,31,Male,2024-07-16,5,286,Infection,Discharged,No
+ED0356,46,Female,2024-12-02,2,179,Chest Pain,Discharged,No
+ED0357,85,Female,2024-12-30,2,166,Other,Discharged,No
+ED0358,22,Male,2024-02-20,1,144,Abdominal Pain,Admitted,No
+ED0359,65,Female,2024-09-01,1,136,Abdominal Pain,Discharged,No
+ED0360,26,Female,2024-02-04,4,91,Trauma,Discharged,No
+ED0361,1,Female,2024-10-28,4,180,Trauma,Discharged,No
+ED0362,89,Female,2024-03-09,3,187,Other,Admitted,No
+ED0363,16,Female,2024-12-14,3,133,Trauma,Discharged,No
+ED0364,32,Female,2024-11-15,3,250,Shortness of Breath,Discharged,No
+ED0365,8,Female,2024-02-18,5,93,Fever,Admitted,Yes
+ED0366,42,Male,2024-03-14,5,70,Chest Pain,Discharged,No
+ED0367,47,Male,2024-07-10,3,162,Chest Pain,Admitted,No
+ED0368,38,Female,2024-09-17,4,153,Headache,Discharged,No
+ED0369,41,Male,2024-12-21,4,120,Other,Discharged,Yes
+ED0370,25,Female,2024-03-10,3,218,Fever,Discharged,No
+ED0371,49,Male,2024-03-30,2,298,Fever,Discharged,No
+ED0372,24,Male,2024-09-16,3,257,Trauma,Discharged,No
+ED0373,23,Male,2024-05-05,4,147,Headache,Discharged,No
+ED0374,12,Male,2024-08-18,5,254,Fever,Admitted,No
+ED0375,59,Female,2024-10-21,4,29,Infection,Discharged,No
+ED0376,6,Female,2024-05-08,4,281,Headache,Discharged,No
+ED0377,56,Female,2024-10-06,3,74,Headache,Discharged,No
+ED0378,35,Female,2024-11-08,4,117,Chest Pain,Left Without Being Seen,No
+ED0379,44,Male,2024-04-09,4,116,Other,Discharged,No
+ED0380,19,Male,2024-11-21,3,95,Trauma,Discharged,No
+ED0381,64,Female,2024-10-23,3,22,Chest Pain,Discharged,No
+ED0382,7,Female,2024-06-30,4,153,Abdominal Pain,Discharged,No
+ED0383,15,Male,2024-06-22,1,231,Headache,Discharged,No
+ED0384,13,Male,2024-11-11,4,218,Fever,Admitted,No
+ED0385,75,Male,2024-12-29,2,155,Fever,Discharged,No
+ED0386,86,Female,2024-07-06,3,196,Shortness of Breath,Admitted,No
+ED0387,14,Female,2024-02-26,4,44,Trauma,Discharged,No
+ED0388,65,Male,2024-01-31,2,246,Infection,Discharged,No
+ED0389,31,Female,2024-03-24,2,142,Abdominal Pain,Admitted,No
+ED0390,86,Female,2024-05-31,3,184,Fever,Discharged,Yes
+ED0391,62,Male,2024-02-05,4,204,Fever,Left Without Being Seen,No
+ED0392,85,Female,2024-07-31,1,207,Trauma,Discharged,No
+ED0393,50,Female,2024-12-29,5,65,Shortness of Breath,Admitted,No
+ED0394,24,Male,2024-04-15,2,196,Headache,Discharged,No
+ED0395,57,Male,2024-12-07,5,9,Trauma,Discharged,No
+ED0396,62,Male,2024-08-07,5,241,Headache,Discharged,Yes
+ED0397,61,Male,2024-06-11,3,185,Other,Discharged,No
+ED0398,21,Male,2024-08-07,3,41,Fever,Discharged,No
+ED0399,57,Female,2024-09-26,3,60,Other,Discharged,No
+ED0400,57,Male,2024-04-29,3,241,Trauma,Discharged,No
+ED0401,85,Male,2024-12-01,1,201,Chest Pain,Discharged,Yes
+ED0402,48,Female,2024-06-30,1,77,Trauma,Admitted,No
+ED0403,51,Female,2024-04-15,1,63,Fever,Discharged,No
+ED0404,41,Male,2024-08-04,3,244,Trauma,Discharged,No
+ED0405,69,Male,2024-07-23,2,6,Chest Pain,Discharged,Yes
+ED0406,14,Male,2024-03-10,3,192,Other,Discharged,No
+ED0407,53,Female,2024-02-13,5,34,Infection,Discharged,Yes
+ED0408,59,Male,2024-11-24,3,271,Shortness of Breath,Discharged,No
+ED0409,7,Female,2024-10-27,3,112,Trauma,Admitted,No
+ED0410,52,Female,2024-08-15,3,94,Chest Pain,Admitted,No
+ED0411,59,Male,2024-07-02,4,209,Chest Pain,Discharged,No
+ED0412,4,Female,2024-04-16,5,224,Shortness of Breath,Discharged,No
+ED0413,67,Female,2024-03-24,4,98,Other,Discharged,No
+ED0414,5,Male,2024-12-03,5,107,Fever,Discharged,No
+ED0415,46,Female,2024-09-06,1,227,Chest Pain,Discharged,No
+ED0416,54,Male,2024-12-28,4,190,Headache,Discharged,No
+ED0417,39,Female,2024-01-21,4,188,Trauma,Discharged,Yes
+ED0418,51,Female,2024-07-14,2,166,Fever,Discharged,No
+ED0419,15,Female,2024-06-26,5,251,Abdominal Pain,Discharged,No
+ED0420,12,Female,2024-01-07,2,35,Shortness of Breath,Admitted,No
+ED0421,29,Female,2024-03-10,3,56,Chest Pain,Discharged,No
+ED0422,18,Female,2024-05-06,2,80,Chest Pain,Admitted,No
+ED0423,16,Female,2024-06-08,3,282,Other,Left Without Being Seen,No
+ED0424,62,Female,2024-09-04,4,44,Trauma,Discharged,No
+ED0425,18,Male,2024-07-21,3,105,Chest Pain,Discharged,No
+ED0426,57,Male,2024-05-27,3,115,Trauma,Discharged,No
+ED0427,54,Male,2024-05-22,3,253,Chest Pain,Left Without Being Seen,Yes
+ED0428,89,Male,2024-07-17,4,195,Fever,Left Without Being Seen,No
+ED0429,89,Male,2024-06-02,2,186,Infection,Discharged,No
+ED0430,61,Female,2024-05-21,3,213,Trauma,Discharged,No
+ED0431,22,Male,2024-11-08,5,26,Fever,Admitted,No
+ED0432,8,Female,2024-06-13,4,170,Abdominal Pain,Discharged,No
+ED0433,11,Male,2024-11-09,3,103,Headache,Admitted,Yes
+ED0434,0,Female,2024-01-21,4,212,Infection,Admitted,Yes
+ED0435,57,Female,2024-03-22,4,12,Infection,Discharged,No
+ED0436,0,Male,2024-03-09,4,194,Chest Pain,Discharged,No
+ED0437,33,Female,2024-05-10,3,179,Shortness of Breath,Discharged,No
+ED0438,47,Male,2024-03-27,2,277,Fever,Discharged,No
+ED0439,88,Female,2024-08-05,2,21,Other,Discharged,No
+ED0440,0,Male,2024-10-31,2,94,Fever,Admitted,No
+ED0441,15,Female,2024-12-10,3,145,Other,Admitted,No
+ED0442,60,Male,2024-12-06,1,149,Shortness of Breath,Admitted,No
+ED0443,63,Female,2024-06-09,3,170,Trauma,Discharged,No
+ED0444,62,Female,2024-06-26,3,82,Headache,Admitted,No
+ED0445,68,Male,2024-04-26,2,266,Other,Admitted,No
+ED0446,21,Male,2024-07-14,4,167,Infection,Discharged,No
+ED0447,66,Male,2024-11-22,3,18,Chest Pain,Discharged,No
+ED0448,75,Male,2024-03-26,1,243,Shortness of Breath,Discharged,No
+ED0449,25,Female,2024-10-15,4,76,Trauma,Admitted,No
+ED0450,15,Male,2024-03-21,1,147,Chest Pain,Discharged,No
+ED0451,50,Male,2024-05-31,4,287,Fever,Admitted,No
+ED0452,85,Male,2024-03-01,4,273,Trauma,Discharged,No
+ED0453,56,Female,2024-03-01,3,245,Infection,Admitted,No
+ED0454,28,Male,2024-12-19,4,249,Trauma,Discharged,No
+ED0455,77,Male,2024-01-28,3,167,Infection,Discharged,No
+ED0456,68,Male,2024-02-12,3,64,Chest Pain,Discharged,No
+ED0457,46,Male,2024-06-17,1,10,Trauma,Discharged,No
+ED0458,61,Female,2024-03-26,2,201,Trauma,Admitted,No
+ED0459,68,Male,2024-06-25,5,62,Trauma,Discharged,Yes
+ED0460,75,Male,2024-01-17,3,221,Chest Pain,Discharged,No
+ED0461,15,Female,2024-04-07,3,30,Trauma,Discharged,No
+ED0462,89,Female,2024-07-16,3,9,Headache,Discharged,No
+ED0463,89,Male,2024-04-07,3,24,Trauma,Discharged,No
+ED0464,47,Female,2024-03-05,1,202,Fever,Discharged,No
+ED0465,84,Female,2024-11-25,3,63,Fever,Admitted,No
+ED0466,38,Male,2024-12-06,4,246,Infection,Discharged,No
+ED0467,32,Female,2024-01-05,2,150,Other,Admitted,No
+ED0468,22,Female,2024-01-02,2,277,Fever,Left Without Being Seen,No
+ED0469,9,Male,2024-01-22,1,253,Trauma,Discharged,No
+ED0470,68,Male,2024-04-21,3,18,Chest Pain,Discharged,No
+ED0471,33,Male,2024-02-26,4,17,Other,Discharged,No
+ED0472,51,Female,2024-03-06,1,48,Chest Pain,Left Without Being Seen,No
+ED0473,9,Female,2024-11-25,2,23,Trauma,Admitted,No
+ED0474,18,Female,2024-04-07,3,67,Trauma,Discharged,No
+ED0475,57,Male,2024-05-23,4,243,Trauma,Admitted,No
+ED0476,0,Female,2024-05-04,3,104,Trauma,Discharged,No
+ED0477,68,Female,2024-06-15,3,167,Shortness of Breath,Left Without Being Seen,No
+ED0478,3,Male,2024-03-26,4,126,Chest Pain,Left Without Being Seen,Yes
+ED0479,15,Male,2024-03-16,3,48,Abdominal Pain,Discharged,No
+ED0480,23,Female,2024-12-09,4,149,Chest Pain,Discharged,Yes
+ED0481,79,Male,2024-10-20,4,54,Chest Pain,Discharged,No
+ED0482,1,Female,2024-02-28,2,69,Other,Discharged,No
+ED0483,31,Male,2024-05-17,2,292,Trauma,Admitted,No
+ED0484,90,Male,2024-04-08,2,168,Infection,Discharged,No
+ED0485,83,Male,2024-07-10,3,145,Headache,Discharged,No
+ED0486,23,Male,2024-08-30,5,132,Chest Pain,Discharged,No
+ED0487,11,Female,2024-11-14,3,243,Other,Left Without Being Seen,No
+ED0488,49,Male,2024-02-18,2,300,Trauma,Discharged,No
+ED0489,34,Female,2024-02-01,4,191,Infection,Discharged,No
+ED0490,32,Female,2024-10-03,3,212,Trauma,Discharged,No
+ED0491,32,Female,2024-01-20,2,224,Infection,Left Without Being Seen,Yes
+ED0492,60,Male,2024-06-02,3,194,Chest Pain,Admitted,Yes
+ED0493,50,Female,2024-03-08,3,288,Headache,Discharged,No
+ED0494,42,Female,2024-12-31,4,241,Shortness of Breath,Discharged,No
+ED0495,11,Male,2024-08-01,1,198,Other,Discharged,No
+ED0496,66,Male,2024-05-22,2,291,Other,Discharged,No
+ED0497,64,Female,2024-08-19,3,263,Infection,Discharged,No
+ED0498,32,Female,2024-07-31,2,250,Infection,Admitted,No
+ED0499,39,Male,2024-03-19,3,140,Trauma,Discharged,No
+ED0500,73,Female,2024-08-01,3,284,Trauma,Admitted,No
+ED0501,42,Female,2024-04-25,3,275,Trauma,Discharged,No
+ED0502,43,Female,2024-04-01,5,175,Fever,Admitted,No
+ED0503,28,Female,2024-09-26,3,163,Fever,Admitted,No
+ED0504,12,Female,2024-06-16,2,205,Headache,Discharged,No
+ED0505,11,Male,2024-02-27,3,49,Trauma,Discharged,No
+ED0506,45,Male,2024-10-10,4,268,Abdominal Pain,Discharged,No
+ED0507,1,Male,2024-01-26,4,75,Trauma,Discharged,No
+ED0508,34,Female,2024-03-06,2,107,Trauma,Discharged,No
+ED0509,86,Female,2024-09-04,5,129,Headache,Discharged,No
+ED0510,80,Male,2024-09-10,3,290,Shortness of Breath,Left Without Being Seen,No
+ED0511,89,Female,2024-02-13,2,234,Shortness of Breath,Discharged,Yes
+ED0512,7,Female,2024-04-06,2,150,Abdominal Pain,Admitted,No
+ED0513,25,Female,2024-02-11,1,201,Trauma,Discharged,No
+ED0514,73,Male,2024-08-14,4,225,Headache,Admitted,No
+ED0515,89,Female,2024-09-18,2,64,Chest Pain,Discharged,No
+ED0516,33,Male,2024-06-15,2,102,Fever,Admitted,No
+ED0517,6,Male,2024-10-05,4,175,Fever,Discharged,No
+ED0518,67,Male,2024-03-29,3,177,Chest Pain,Discharged,No
+ED0519,57,Male,2024-06-26,1,155,Trauma,Discharged,No
+ED0520,74,Male,2024-07-15,1,126,Other,Discharged,No
+ED0521,28,Female,2024-11-02,2,112,Other,Discharged,No
+ED0522,35,Male,2024-09-23,2,8,Fever,Discharged,No
+ED0523,88,Female,2024-09-24,3,97,Chest Pain,Discharged,Yes
+ED0524,20,Male,2024-03-14,2,10,Trauma,Admitted,No
+ED0525,35,Female,2024-01-08,2,292,Fever,Discharged,No
+ED0526,9,Female,2024-10-23,4,110,Other,Discharged,No
+ED0527,72,Male,2024-06-12,3,150,Chest Pain,Admitted,No
+ED0528,23,Male,2024-03-25,3,275,Shortness of Breath,Discharged,No
+ED0529,63,Male,2024-03-12,3,100,Chest Pain,Discharged,Yes
+ED0530,48,Female,2024-02-24,3,233,Other,Discharged,No
+ED0531,35,Female,2024-02-16,3,206,Fever,Left Without Being Seen,No
+ED0532,81,Male,2024-08-25,3,216,Shortness of Breath,Admitted,No
+ED0533,23,Female,2024-04-13,3,10,Trauma,Admitted,No
+ED0534,22,Male,2024-07-28,5,116,Abdominal Pain,Discharged,Yes
+ED0535,61,Male,2024-02-11,1,110,Trauma,Admitted,No
+ED0536,36,Female,2024-11-11,4,143,Chest Pain,Discharged,No
+ED0537,11,Male,2024-09-24,2,100,Other,Discharged,No
+ED0538,54,Female,2024-09-19,4,218,Other,Discharged,No
+ED0539,12,Male,2024-12-01,3,295,Infection,Discharged,No
+ED0540,22,Female,2024-12-30,4,26,Abdominal Pain,Discharged,Yes
+ED0541,88,Male,2024-09-15,1,197,Infection,Discharged,No
+ED0542,29,Male,2024-10-09,3,154,Chest Pain,Discharged,No
+ED0543,16,Female,2024-04-23,3,251,Trauma,Discharged,Yes
+ED0544,61,Male,2024-12-28,4,271,Trauma,Admitted,No
+ED0545,83,Female,2024-02-09,3,255,Abdominal Pain,Discharged,No
+ED0546,88,Female,2024-08-07,3,7,Fever,Admitted,No
+ED0547,85,Female,2024-05-08,3,80,Chest Pain,Discharged,No
+ED0548,12,Female,2024-01-08,3,91,Headache,Admitted,No
+ED0549,58,Female,2024-04-10,3,274,Infection,Discharged,No
+ED0550,18,Female,2024-06-24,2,229,Fever,Discharged,No
+ED0551,48,Female,2024-04-16,5,22,Chest Pain,Discharged,Yes
+ED0552,11,Female,2024-04-10,4,117,Trauma,Discharged,No
+ED0553,60,Male,2024-09-16,5,255,Trauma,Admitted,No
+ED0554,18,Male,2024-12-31,2,237,Trauma,Discharged,No
+ED0555,75,Female,2024-09-02,4,283,Abdominal Pain,Discharged,No
+ED0556,8,Male,2024-10-01,4,206,Abdominal Pain,Admitted,No
+ED0557,70,Male,2024-02-01,3,87,Abdominal Pain,Discharged,No
+ED0558,27,Male,2024-05-16,3,129,Fever,Discharged,No
+ED0559,77,Male,2024-01-12,3,179,Infection,Discharged,No
+ED0560,51,Female,2024-10-28,4,73,Trauma,Discharged,No
+ED0561,82,Female,2024-01-16,3,51,Fever,Discharged,No
+ED0562,15,Male,2024-05-08,1,260,Infection,Discharged,No
+ED0563,68,Female,2024-03-03,3,219,Trauma,Left Without Being Seen,No
+ED0564,11,Female,2024-04-18,5,34,Chest Pain,Discharged,No
+ED0565,24,Male,2024-01-21,4,285,Infection,Discharged,No
+ED0566,51,Female,2024-06-06,5,241,Trauma,Discharged,No
+ED0567,84,Male,2024-09-25,3,252,Abdominal Pain,Admitted,No
+ED0568,52,Male,2024-06-10,2,29,Chest Pain,Admitted,No
+ED0569,22,Female,2024-09-16,2,78,Abdominal Pain,Discharged,No
+ED0570,15,Male,2024-04-11,2,210,Trauma,Admitted,No
+ED0571,56,Female,2024-08-10,1,98,Chest Pain,Discharged,No
+ED0572,38,Female,2024-02-28,3,131,Abdominal Pain,Discharged,No
+ED0573,52,Male,2024-09-03,2,29,Trauma,Discharged,No
+ED0574,41,Female,2024-05-07,3,120,Fever,Discharged,No
+ED0575,57,Female,2024-10-09,5,52,Chest Pain,Discharged,No
+ED0576,38,Male,2024-11-20,3,230,Chest Pain,Admitted,No
+ED0577,13,Female,2024-01-25,4,270,Trauma,Discharged,Yes
+ED0578,4,Female,2024-05-10,3,103,Chest Pain,Left Without Being Seen,No
+ED0579,34,Female,2024-12-18,2,15,Other,Discharged,No
+ED0580,86,Female,2024-07-14,3,89,Chest Pain,Discharged,No
+ED0581,74,Male,2024-10-07,1,218,Fever,Discharged,No
+ED0582,17,Female,2024-06-02,3,177,Chest Pain,Discharged,Yes
+ED0583,75,Female,2024-05-12,3,213,Trauma,Discharged,No
+ED0584,8,Female,2024-08-14,1,68,Other,Discharged,No
+ED0585,73,Female,2024-07-07,2,262,Trauma,Discharged,Yes
+ED0586,57,Female,2024-09-21,3,125,Other,Discharged,No
+ED0587,16,Male,2024-05-13,5,58,Trauma,Admitted,No
+ED0588,6,Female,2024-07-29,4,276,Shortness of Breath,Discharged,No
+ED0589,45,Female,2024-02-29,4,245,Headache,Discharged,No
+ED0590,12,Female,2024-12-29,2,247,Infection,Discharged,No
+ED0591,39,Female,2024-12-29,4,22,Headache,Admitted,No
+ED0592,41,Male,2024-07-31,4,191,Headache,Admitted,No
+ED0593,8,Male,2024-08-03,3,148,Trauma,Discharged,No
+ED0594,49,Male,2024-08-13,5,266,Trauma,Discharged,No
+ED0595,26,Male,2024-05-10,3,243,Other,Discharged,No
+ED0596,65,Female,2024-03-16,5,80,Trauma,Left Without Being Seen,No
+ED0597,4,Female,2024-10-12,5,192,Fever,Discharged,No
+ED0598,28,Female,2024-10-03,1,250,Shortness of Breath,Discharged,No
+ED0599,36,Male,2024-06-04,3,134,Trauma,Discharged,No
+ED0600,37,Female,2024-09-04,5,287,Other,Discharged,No
+ED0601,82,Male,2024-08-05,2,83,Shortness of Breath,Left Without Being Seen,Yes
+ED0602,7,Male,2024-07-08,3,76,Headache,Discharged,No
+ED0603,64,Female,2024-06-11,5,267,Infection,Discharged,No
+ED0604,85,Female,2024-06-28,3,195,Chest Pain,Discharged,No
+ED0605,16,Male,2024-02-03,2,67,Trauma,Admitted,Yes
+ED0606,70,Male,2024-02-10,3,16,Fever,Admitted,No
+ED0607,88,Male,2024-11-02,2,145,Trauma,Discharged,No
+ED0608,44,Male,2024-12-03,3,258,Shortness of Breath,Discharged,No
+ED0609,3,Female,2024-11-09,1,47,Other,Admitted,No
+ED0610,35,Male,2024-03-15,3,21,Fever,Discharged,No
+ED0611,69,Female,2024-10-05,3,67,Trauma,Discharged,Yes
+ED0612,30,Male,2024-06-24,4,257,Other,Discharged,No
+ED0613,18,Male,2024-05-29,3,296,Fever,Left Without Being Seen,No
+ED0614,60,Male,2024-09-29,3,12,Fever,Discharged,No
+ED0615,53,Male,2024-11-20,3,94,Fever,Admitted,No
+ED0616,38,Male,2024-04-17,2,212,Other,Discharged,No
+ED0617,90,Male,2024-05-18,3,296,Headache,Discharged,No
+ED0618,73,Female,2024-12-15,2,288,Shortness of Breath,Discharged,No
+ED0619,89,Male,2024-09-27,5,122,Infection,Discharged,No
+ED0620,18,Female,2024-12-12,1,179,Trauma,Discharged,No
+ED0621,38,Male,2024-10-15,3,80,Fever,Discharged,No
+ED0622,66,Female,2024-07-30,3,105,Infection,Discharged,No
+ED0623,44,Female,2024-09-28,3,155,Fever,Admitted,Yes
+ED0624,12,Female,2024-03-06,1,274,Shortness of Breath,Left Without Being Seen,No
+ED0625,57,Female,2024-09-04,3,75,Other,Discharged,No
+ED0626,19,Male,2024-06-04,3,184,Abdominal Pain,Discharged,No
+ED0627,71,Female,2024-02-16,4,128,Shortness of Breath,Discharged,No
+ED0628,60,Male,2024-07-19,3,297,Infection,Discharged,No
+ED0629,38,Female,2024-05-27,3,289,Infection,Admitted,Yes
+ED0630,0,Male,2024-05-03,3,199,Fever,Discharged,No
+ED0631,2,Male,2024-01-01,3,232,Chest Pain,Discharged,No
+ED0632,76,Female,2024-09-03,3,279,Fever,Admitted,No
+ED0633,61,Female,2024-12-08,3,110,Abdominal Pain,Discharged,Yes
+ED0634,62,Female,2024-05-07,2,25,Fever,Discharged,No
+ED0635,24,Female,2024-07-09,1,68,Shortness of Breath,Discharged,No
+ED0636,55,Female,2024-03-07,2,169,Fever,Discharged,No
+ED0637,32,Male,2024-01-04,2,31,Abdominal Pain,Discharged,No
+ED0638,37,Male,2024-10-29,3,289,Trauma,Admitted,No
+ED0639,5,Male,2024-10-20,3,152,Shortness of Breath,Admitted,No
+ED0640,57,Male,2024-05-22,2,285,Headache,Discharged,No
+ED0641,43,Female,2024-07-09,5,168,Trauma,Admitted,No
+ED0642,44,Male,2024-01-21,1,228,Trauma,Discharged,No
+ED0643,31,Female,2024-08-14,4,276,Shortness of Breath,Admitted,No
+ED0644,44,Male,2024-11-08,3,150,Fever,Discharged,No
+ED0645,60,Female,2024-04-26,3,34,Trauma,Admitted,No
+ED0646,46,Female,2024-10-28,1,49,Other,Admitted,No
+ED0647,20,Male,2024-05-21,3,279,Shortness of Breath,Discharged,No
+ED0648,79,Male,2024-02-08,3,38,Other,Admitted,No
+ED0649,84,Male,2024-12-20,5,145,Fever,Admitted,No
+ED0650,74,Male,2024-09-08,3,225,Fever,Admitted,No
+ED0651,35,Male,2024-11-28,5,26,Infection,Discharged,No
+ED0652,18,Male,2024-07-25,2,184,Headache,Admitted,Yes
+ED0653,19,Male,2024-07-28,4,235,Shortness of Breath,Admitted,No
+ED0654,56,Female,2024-04-24,3,42,Trauma,Discharged,No
+ED0655,17,Female,2024-08-12,4,74,Fever,Left Without Being Seen,No
+ED0656,46,Female,2024-05-13,2,120,Chest Pain,Discharged,No
+ED0657,48,Male,2024-09-07,3,243,Trauma,Discharged,No
+ED0658,13,Female,2024-08-06,3,152,Chest Pain,Discharged,No
+ED0659,14,Male,2024-03-31,4,13,Chest Pain,Discharged,Yes
+ED0660,30,Male,2024-12-19,3,292,Other,Discharged,No
+ED0661,0,Female,2024-02-15,4,54,Trauma,Discharged,No
+ED0662,53,Male,2024-02-07,1,9,Abdominal Pain,Left Without Being Seen,No
+ED0663,2,Female,2024-05-21,4,130,Infection,Discharged,No
+ED0664,15,Female,2024-04-09,4,79,Headache,Discharged,No
+ED0665,86,Male,2024-11-23,4,169,Trauma,Discharged,No
+ED0666,56,Male,2024-07-08,3,282,Shortness of Breath,Discharged,No
+ED0667,74,Male,2024-02-04,3,294,Abdominal Pain,Admitted,No
+ED0668,11,Female,2024-05-26,5,81,Shortness of Breath,Discharged,No
+ED0669,73,Male,2024-01-30,2,141,Shortness of Breath,Admitted,Yes
+ED0670,15,Male,2024-11-29,3,110,Other,Discharged,No
+ED0671,71,Male,2024-03-24,3,99,Headache,Discharged,No
+ED0672,75,Female,2024-10-07,4,139,Trauma,Discharged,No
+ED0673,23,Male,2024-12-09,2,72,Abdominal Pain,Discharged,Yes
+ED0674,27,Male,2024-09-26,3,151,Chest Pain,Discharged,No
+ED0675,7,Female,2024-06-02,4,163,Infection,Discharged,No
+ED0676,35,Female,2024-04-11,1,167,Chest Pain,Discharged,No
+ED0677,89,Male,2024-08-02,5,193,Trauma,Admitted,No
+ED0678,7,Male,2024-05-29,1,99,Infection,Discharged,No
+ED0679,57,Male,2024-03-23,3,185,Headache,Discharged,No
+ED0680,59,Female,2024-04-19,1,292,Fever,Discharged,Yes
+ED0681,49,Male,2024-10-01,1,191,Fever,Discharged,No
+ED0682,27,Female,2024-07-19,5,142,Infection,Admitted,No
+ED0683,40,Female,2024-10-10,3,134,Trauma,Discharged,No
+ED0684,63,Female,2024-06-21,3,198,Infection,Discharged,No
+ED0685,26,Male,2024-11-22,2,277,Chest Pain,Left Without Being Seen,No
+ED0686,62,Female,2024-07-24,3,148,Shortness of Breath,Discharged,No
+ED0687,16,Female,2024-03-03,3,20,Infection,Discharged,Yes
+ED0688,72,Female,2024-03-13,3,249,Trauma,Discharged,No
+ED0689,32,Male,2024-09-07,3,111,Fever,Discharged,No
+ED0690,83,Female,2024-05-03,4,92,Trauma,Admitted,No
+ED0691,76,Male,2024-04-30,3,133,Shortness of Breath,Admitted,No
+ED0692,28,Male,2024-10-01,3,8,Headache,Left Without Being Seen,No
+ED0693,12,Male,2024-04-29,2,99,Abdominal Pain,Discharged,No
+ED0694,45,Female,2024-11-12,4,213,Trauma,Discharged,No
+ED0695,34,Male,2024-06-12,3,229,Trauma,Admitted,No
+ED0696,5,Male,2024-10-12,3,51,Chest Pain,Discharged,No
+ED0697,81,Male,2024-09-21,2,185,Trauma,Discharged,Yes
+ED0698,68,Male,2024-11-15,5,110,Headache,Discharged,No
+ED0699,46,Female,2024-06-09,2,203,Infection,Discharged,No
+ED0700,24,Female,2024-11-03,4,110,Abdominal Pain,Discharged,No
+ED0701,65,Male,2024-03-29,3,284,Fever,Admitted,No
+ED0702,9,Male,2024-05-21,2,264,Other,Admitted,No
+ED0703,55,Female,2024-07-21,4,112,Shortness of Breath,Discharged,No
+ED0704,29,Male,2024-11-04,3,23,Other,Discharged,No
+ED0705,4,Male,2024-08-14,4,300,Headache,Discharged,No
+ED0706,32,Female,2024-11-29,5,175,Trauma,Admitted,Yes
+ED0707,64,Female,2024-08-09,4,199,Chest Pain,Discharged,No
+ED0708,17,Male,2024-02-10,1,16,Shortness of Breath,Admitted,No
+ED0709,48,Female,2024-07-14,4,199,Chest Pain,Discharged,No
+ED0710,10,Male,2024-03-08,3,287,Trauma,Discharged,No
+ED0711,84,Female,2024-09-20,4,186,Headache,Discharged,No
+ED0712,25,Male,2024-01-02,3,148,Headache,Admitted,No
+ED0713,62,Male,2024-12-26,4,186,Abdominal Pain,Discharged,No
+ED0714,88,Male,2024-05-04,3,34,Trauma,Discharged,No
+ED0715,85,Female,2024-04-19,3,88,Fever,Discharged,No
+ED0716,58,Female,2024-03-26,2,170,Abdominal Pain,Admitted,No
+ED0717,26,Male,2024-04-29,4,288,Other,Admitted,No
+ED0718,48,Male,2024-05-06,3,285,Shortness of Breath,Discharged,No
+ED0719,76,Female,2024-09-11,3,100,Other,Admitted,No
+ED0720,32,Male,2024-07-01,4,270,Shortness of Breath,Discharged,No
+ED0721,0,Male,2024-01-16,3,300,Headache,Discharged,No
+ED0722,20,Female,2024-03-02,2,229,Trauma,Discharged,No
+ED0723,54,Male,2024-06-06,3,46,Abdominal Pain,Discharged,No
+ED0724,5,Female,2024-09-24,3,250,Abdominal Pain,Admitted,No
+ED0725,80,Female,2024-02-04,3,212,Abdominal Pain,Admitted,No
+ED0726,68,Male,2024-09-23,1,241,Fever,Discharged,No
+ED0727,4,Male,2024-03-04,2,26,Headache,Discharged,Yes
+ED0728,2,Male,2024-02-19,2,189,Trauma,Admitted,No
+ED0729,52,Female,2024-09-11,4,246,Headache,Admitted,No
+ED0730,22,Female,2024-05-28,1,287,Trauma,Discharged,No
+ED0731,52,Female,2024-11-20,3,45,Infection,Left Without Being Seen,No
+ED0732,36,Male,2024-10-30,5,166,Trauma,Discharged,No
+ED0733,73,Female,2024-10-02,2,164,Chest Pain,Discharged,No
+ED0734,73,Female,2024-12-22,3,93,Fever,Admitted,No
+ED0735,82,Female,2024-06-20,4,16,Abdominal Pain,Discharged,No
+ED0736,16,Female,2024-07-19,5,77,Fever,Discharged,No
+ED0737,84,Female,2024-11-19,4,80,Trauma,Discharged,No
+ED0738,77,Female,2024-02-04,4,205,Headache,Admitted,No
+ED0739,72,Female,2024-08-03,4,14,Trauma,Admitted,No
+ED0740,0,Male,2024-03-05,3,230,Other,Discharged,No
+ED0741,50,Male,2024-01-08,4,180,Other,Discharged,No
+ED0742,44,Female,2024-10-27,1,280,Headache,Discharged,No
+ED0743,76,Male,2024-12-08,5,43,Trauma,Discharged,No
+ED0744,3,Female,2024-11-27,3,64,Shortness of Breath,Discharged,No
+ED0745,61,Female,2024-03-16,3,70,Chest Pain,Admitted,No
+ED0746,64,Female,2024-06-22,2,128,Fever,Discharged,Yes
+ED0747,31,Male,2024-02-16,4,168,Trauma,Discharged,No
+ED0748,33,Male,2024-01-15,1,163,Other,Discharged,No
+ED0749,71,Male,2024-12-26,4,61,Chest Pain,Discharged,No
+ED0750,38,Female,2024-05-26,4,82,Headache,Admitted,No
+ED0751,25,Female,2024-01-26,2,198,Shortness of Breath,Discharged,No
+ED0752,33,Female,2024-11-03,4,289,Fever,Discharged,No
+ED0753,53,Male,2024-04-02,4,19,Chest Pain,Discharged,Yes
+ED0754,2,Female,2024-08-19,3,16,Other,Discharged,No
+ED0755,49,Female,2024-01-21,3,105,Headache,Discharged,No
+ED0756,11,Male,2024-11-02,2,160,Abdominal Pain,Discharged,No
+ED0757,64,Female,2024-02-07,2,129,Trauma,Discharged,No
+ED0758,53,Male,2024-10-02,3,284,Fever,Discharged,No
+ED0759,4,Male,2024-06-05,5,114,Fever,Discharged,No
+ED0760,56,Female,2024-06-27,1,150,Chest Pain,Discharged,No
+ED0761,16,Male,2024-05-11,4,220,Chest Pain,Left Without Being Seen,No
+ED0762,46,Female,2024-11-06,3,166,Infection,Discharged,No
+ED0763,22,Female,2024-12-13,3,132,Trauma,Discharged,No
+ED0764,78,Female,2024-01-28,4,154,Trauma,Discharged,No
+ED0765,84,Male,2024-09-16,4,40,Headache,Discharged,Yes
+ED0766,13,Female,2024-03-16,3,177,Shortness of Breath,Admitted,No
+ED0767,65,Female,2024-03-07,3,26,Chest Pain,Discharged,No
+ED0768,74,Female,2024-12-07,3,210,Headache,Admitted,No
+ED0769,50,Male,2024-07-12,1,131,Chest Pain,Discharged,Yes
+ED0770,37,Male,2024-06-10,2,221,Chest Pain,Discharged,Yes
+ED0771,63,Female,2024-12-12,3,100,Chest Pain,Admitted,No
+ED0772,37,Male,2024-12-26,3,168,Infection,Discharged,No
+ED0773,49,Female,2024-09-13,4,152,Chest Pain,Discharged,No
+ED0774,81,Female,2024-03-12,3,22,Chest Pain,Discharged,No
+ED0775,29,Male,2024-03-27,3,298,Fever,Admitted,No
+ED0776,78,Female,2024-09-18,3,199,Infection,Discharged,No
+ED0777,90,Female,2024-08-01,4,155,Trauma,Admitted,Yes
+ED0778,50,Female,2024-06-01,4,127,Fever,Discharged,No
+ED0779,62,Female,2024-07-28,3,191,Chest Pain,Admitted,No
+ED0780,51,Female,2024-03-01,4,153,Fever,Discharged,Yes
+ED0781,37,Male,2024-09-24,2,108,Headache,Admitted,No
+ED0782,87,Male,2024-09-18,3,247,Headache,Discharged,No
+ED0783,78,Female,2024-08-05,3,235,Trauma,Admitted,No
+ED0784,29,Male,2024-10-09,3,210,Trauma,Discharged,No
+ED0785,50,Male,2024-05-15,4,202,Chest Pain,Discharged,Yes
+ED0786,80,Male,2024-12-27,4,91,Fever,Discharged,Yes
+ED0787,4,Female,2024-04-02,2,146,Chest Pain,Discharged,No
+ED0788,28,Female,2024-04-18,3,203,Shortness of Breath,Discharged,No
+ED0789,3,Female,2024-08-28,3,50,Other,Admitted,No
+ED0790,9,Female,2024-12-20,2,292,Other,Left Without Being Seen,No
+ED0791,55,Female,2024-05-21,2,19,Infection,Discharged,No
+ED0792,16,Male,2024-10-17,3,48,Abdominal Pain,Admitted,No
+ED0793,73,Female,2024-08-24,2,173,Shortness of Breath,Discharged,No
+ED0794,16,Male,2024-12-05,2,48,Trauma,Discharged,No
+ED0795,83,Female,2024-11-07,2,102,Abdominal Pain,Admitted,No
+ED0796,87,Female,2024-06-25,3,265,Fever,Discharged,No
+ED0797,68,Male,2024-05-20,4,113,Fever,Left Without Being Seen,Yes
+ED0798,33,Male,2024-07-07,3,287,Shortness of Breath,Discharged,No
+ED0799,5,Male,2024-02-18,5,108,Trauma,Discharged,No
+ED0800,52,Male,2024-10-28,3,260,Trauma,Discharged,No
+ED0801,65,Male,2024-07-08,4,210,Other,Discharged,No
+ED0802,76,Female,2024-05-15,4,47,Chest Pain,Discharged,No
+ED0803,42,Female,2024-02-12,3,249,Fever,Left Without Being Seen,No
+ED0804,74,Female,2024-12-18,3,291,Other,Admitted,No
+ED0805,22,Female,2024-03-30,4,277,Abdominal Pain,Admitted,No
+ED0806,54,Female,2024-10-21,2,87,Headache,Discharged,Yes
+ED0807,79,Female,2024-12-06,3,114,Trauma,Discharged,No
+ED0808,74,Male,2024-09-01,3,194,Trauma,Discharged,No
+ED0809,15,Female,2024-07-10,3,292,Infection,Discharged,No
+ED0810,7,Male,2024-11-13,1,255,Headache,Discharged,No
+ED0811,3,Female,2024-04-15,5,216,Headache,Admitted,No
+ED0812,3,Female,2024-12-28,3,295,Chest Pain,Discharged,No
+ED0813,55,Female,2024-11-05,3,137,Chest Pain,Discharged,No
+ED0814,24,Male,2024-08-20,5,205,Other,Discharged,No
+ED0815,66,Female,2024-09-21,3,289,Fever,Discharged,No
+ED0816,66,Female,2024-12-09,5,99,Abdominal Pain,Discharged,No
+ED0817,26,Male,2024-02-06,3,282,Chest Pain,Admitted,No
+ED0818,31,Male,2024-10-31,2,223,Abdominal Pain,Discharged,No
+ED0819,49,Female,2024-02-10,4,93,Other,Admitted,No
+ED0820,60,Male,2024-01-17,3,76,Headache,Discharged,No
+ED0821,50,Female,2024-12-09,4,251,Chest Pain,Discharged,No
+ED0822,18,Male,2024-10-03,5,133,Headache,Discharged,No
+ED0823,20,Male,2024-11-02,4,216,Shortness of Breath,Admitted,No
+ED0824,4,Female,2024-02-28,3,100,Fever,Admitted,No
+ED0825,81,Male,2024-07-01,4,79,Infection,Discharged,No
+ED0826,41,Female,2024-02-10,3,58,Abdominal Pain,Discharged,No
+ED0827,60,Male,2024-02-08,3,58,Infection,Discharged,No
+ED0828,21,Male,2024-07-10,4,222,Abdominal Pain,Discharged,No
+ED0829,20,Female,2024-09-23,2,20,Chest Pain,Admitted,No
+ED0830,69,Male,2024-05-26,4,103,Trauma,Discharged,No
+ED0831,0,Female,2024-11-28,4,24,Trauma,Discharged,No
+ED0832,4,Female,2024-05-06,4,50,Other,Discharged,No
+ED0833,11,Female,2024-02-15,3,197,Shortness of Breath,Discharged,No
+ED0834,89,Male,2024-02-14,4,62,Abdominal Pain,Discharged,No
+ED0835,45,Male,2024-01-01,3,115,Trauma,Discharged,No
+ED0836,33,Female,2024-06-16,4,133,Trauma,Admitted,No
+ED0837,48,Female,2024-04-17,2,198,Shortness of Breath,Admitted,No
+ED0838,77,Female,2024-01-19,2,12,Fever,Discharged,No
+ED0839,89,Male,2024-11-27,2,33,Trauma,Admitted,No
+ED0840,44,Male,2024-03-12,3,116,Abdominal Pain,Discharged,No
+ED0841,26,Female,2024-04-18,3,165,Chest Pain,Discharged,No
+ED0842,72,Female,2024-09-24,4,135,Trauma,Discharged,No
+ED0843,25,Female,2024-08-27,3,192,Fever,Discharged,No
+ED0844,46,Female,2024-10-27,3,167,Chest Pain,Discharged,No
+ED0845,85,Female,2024-03-30,1,201,Other,Discharged,Yes
+ED0846,55,Male,2024-04-12,3,208,Trauma,Discharged,No
+ED0847,62,Male,2024-09-06,3,216,Chest Pain,Left Without Being Seen,No
+ED0848,47,Male,2024-01-08,1,113,Trauma,Discharged,No
+ED0849,60,Male,2024-06-01,2,280,Shortness of Breath,Discharged,No
+ED0850,80,Female,2024-12-12,2,77,Fever,Discharged,No
+ED0851,25,Male,2024-06-22,1,171,Headache,Discharged,No
+ED0852,35,Female,2024-12-08,3,264,Chest Pain,Discharged,No
+ED0853,0,Male,2024-06-06,2,247,Chest Pain,Admitted,No
+ED0854,7,Male,2024-08-02,4,279,Fever,Discharged,Yes
+ED0855,51,Male,2024-06-25,4,106,Infection,Discharged,No
+ED0856,78,Male,2024-06-23,3,177,Infection,Discharged,No
+ED0857,46,Female,2024-12-05,5,175,Chest Pain,Discharged,No
+ED0858,55,Male,2024-12-03,3,145,Headache,Discharged,No
+ED0859,85,Female,2024-05-25,3,192,Other,Discharged,No
+ED0860,13,Male,2024-11-19,5,90,Fever,Discharged,No
+ED0861,89,Male,2024-06-09,2,56,Infection,Discharged,No
+ED0862,27,Male,2024-05-06,5,115,Chest Pain,Discharged,No
+ED0863,86,Female,2024-03-22,1,47,Other,Left Without Being Seen,No
+ED0864,77,Female,2024-05-26,3,215,Shortness of Breath,Discharged,No
+ED0865,87,Male,2024-08-26,1,204,Other,Admitted,No
+ED0866,1,Male,2024-03-24,4,244,Abdominal Pain,Admitted,No
+ED0867,25,Female,2024-04-22,3,119,Fever,Discharged,No
+ED0868,13,Male,2024-08-12,4,30,Other,Discharged,No
+ED0869,58,Male,2024-11-27,3,81,Trauma,Discharged,No
+ED0870,55,Female,2024-08-30,3,141,Trauma,Discharged,No
+ED0871,6,Female,2024-05-22,1,24,Shortness of Breath,Discharged,No
+ED0872,2,Male,2024-02-10,3,215,Shortness of Breath,Admitted,No
+ED0873,22,Female,2024-09-14,5,244,Other,Admitted,No
+ED0874,17,Female,2024-10-11,3,43,Trauma,Discharged,No
+ED0875,37,Male,2024-04-14,4,272,Shortness of Breath,Discharged,No
+ED0876,14,Female,2024-07-20,4,211,Shortness of Breath,Discharged,No
+ED0877,63,Female,2024-11-02,3,271,Chest Pain,Admitted,No
+ED0878,88,Male,2024-11-26,3,158,Fever,Discharged,No
+ED0879,27,Male,2024-09-22,1,46,Trauma,Discharged,No
+ED0880,73,Male,2024-07-28,2,15,Trauma,Admitted,No
+ED0881,38,Female,2024-02-20,1,298,Other,Discharged,No
+ED0882,56,Male,2024-04-27,3,102,Abdominal Pain,Admitted,No
+ED0883,16,Female,2024-07-19,3,279,Shortness of Breath,Discharged,No
+ED0884,85,Female,2024-02-08,3,234,Other,Discharged,No
+ED0885,89,Male,2024-01-28,3,224,Fever,Admitted,No
+ED0886,43,Female,2024-09-15,3,69,Infection,Discharged,No
+ED0887,24,Male,2024-03-24,3,236,Fever,Discharged,No
+ED0888,16,Female,2024-06-03,4,56,Infection,Discharged,No
+ED0889,12,Female,2024-04-26,1,267,Trauma,Discharged,No
+ED0890,83,Male,2024-01-02,2,271,Other,Discharged,No
+ED0891,24,Male,2024-04-02,4,158,Trauma,Discharged,No
+ED0892,67,Male,2024-06-14,3,144,Trauma,Discharged,No
+ED0893,9,Male,2024-12-15,3,55,Shortness of Breath,Discharged,No
+ED0894,66,Male,2024-10-22,3,121,Fever,Admitted,No
+ED0895,17,Male,2024-09-14,3,50,Abdominal Pain,Admitted,No
+ED0896,85,Female,2024-03-21,2,92,Fever,Discharged,No
+ED0897,33,Male,2024-09-24,2,212,Shortness of Breath,Discharged,No
+ED0898,7,Male,2024-08-22,3,273,Trauma,Discharged,No
+ED0899,39,Female,2024-11-16,3,93,Chest Pain,Discharged,No
+ED0900,82,Male,2024-11-06,4,122,Trauma,Admitted,No
+ED0901,41,Female,2024-10-27,4,58,Fever,Admitted,No
+ED0902,40,Female,2024-12-22,3,120,Trauma,Discharged,No
+ED0903,5,Female,2024-07-31,4,122,Fever,Discharged,No
+ED0904,51,Male,2024-03-02,3,264,Fever,Discharged,No
+ED0905,25,Male,2024-02-18,3,79,Chest Pain,Discharged,No
+ED0906,63,Male,2024-05-06,4,11,Headache,Discharged,No
+ED0907,58,Female,2024-08-10,3,126,Infection,Left Without Being Seen,No
+ED0908,55,Male,2024-10-05,3,15,Trauma,Admitted,No
+ED0909,58,Male,2024-10-20,2,219,Headache,Discharged,No
+ED0910,69,Female,2024-10-10,3,283,Abdominal Pain,Discharged,Yes
+ED0911,32,Male,2024-10-03,4,32,Fever,Admitted,No
+ED0912,52,Male,2024-04-16,4,239,Shortness of Breath,Discharged,Yes
+ED0913,21,Male,2024-05-25,4,30,Fever,Discharged,No
+ED0914,20,Female,2024-04-08,4,58,Headache,Discharged,No
+ED0915,69,Male,2024-03-13,3,33,Chest Pain,Admitted,No
+ED0916,69,Female,2024-05-01,3,168,Abdominal Pain,Discharged,No
+ED0917,3,Female,2024-01-30,2,274,Abdominal Pain,Discharged,No
+ED0918,74,Male,2024-07-06,3,39,Chest Pain,Admitted,No
+ED0919,61,Female,2024-12-29,3,290,Fever,Admitted,No
+ED0920,61,Male,2024-12-19,5,277,Other,Admitted,No
+ED0921,23,Male,2024-10-14,3,212,Fever,Discharged,No
+ED0922,54,Female,2024-07-13,3,242,Headache,Discharged,No
+ED0923,8,Female,2024-06-04,3,97,Other,Admitted,No
+ED0924,2,Female,2024-06-20,3,177,Shortness of Breath,Admitted,No
+ED0925,30,Male,2024-11-30,4,83,Headache,Discharged,Yes
+ED0926,39,Male,2024-02-10,2,114,Shortness of Breath,Discharged,No
+ED0927,35,Male,2024-03-03,3,221,Infection,Admitted,No
+ED0928,23,Male,2024-01-23,4,110,Fever,Admitted,No
+ED0929,5,Male,2024-12-25,3,51,Fever,Discharged,No
+ED0930,65,Male,2024-03-15,2,185,Fever,Discharged,No
+ED0931,83,Male,2024-02-17,3,68,Other,Discharged,No
+ED0932,74,Male,2024-06-08,4,250,Abdominal Pain,Discharged,No
+ED0933,3,Male,2024-11-08,1,248,Chest Pain,Discharged,No
+ED0934,78,Male,2024-04-27,4,91,Infection,Discharged,No
+ED0935,5,Female,2024-04-09,4,221,Fever,Discharged,No
+ED0936,50,Male,2024-06-15,3,11,Chest Pain,Discharged,Yes
+ED0937,61,Female,2024-10-16,5,282,Headache,Discharged,Yes
+ED0938,56,Female,2024-06-04,4,214,Fever,Admitted,No
+ED0939,65,Male,2024-01-07,4,173,Infection,Discharged,No
+ED0940,78,Female,2024-07-14,4,142,Trauma,Discharged,No
+ED0941,74,Female,2024-02-25,2,234,Infection,Admitted,No
+ED0942,7,Female,2024-11-16,2,165,Headache,Discharged,No
+ED0943,25,Male,2024-07-11,3,5,Chest Pain,Left Without Being Seen,Yes
+ED0944,50,Male,2024-02-16,2,240,Other,Admitted,No
+ED0945,44,Male,2024-05-27,3,192,Headache,Discharged,Yes
+ED0946,43,Female,2024-10-01,4,8,Trauma,Left Without Being Seen,No
+ED0947,4,Female,2024-06-05,4,136,Fever,Discharged,No
+ED0948,69,Female,2024-07-20,3,222,Infection,Discharged,No
+ED0949,25,Female,2024-05-05,4,264,Trauma,Discharged,No
+ED0950,67,Female,2024-10-31,4,5,Trauma,Discharged,No
+ED0951,18,Male,2024-10-20,3,75,Chest Pain,Admitted,No
+ED0952,83,Male,2024-03-04,2,182,Trauma,Discharged,No
+ED0953,19,Female,2024-11-20,3,193,Shortness of Breath,Discharged,Yes
+ED0954,11,Male,2024-06-24,4,295,Fever,Discharged,No
+ED0955,46,Male,2024-04-25,3,12,Trauma,Discharged,No
+ED0956,0,Male,2024-07-22,3,257,Trauma,Discharged,No
+ED0957,89,Male,2024-11-16,1,296,Trauma,Discharged,Yes
+ED0958,13,Female,2024-01-31,4,248,Other,Admitted,No
+ED0959,63,Female,2024-04-22,4,127,Trauma,Discharged,No
+ED0960,37,Female,2024-12-30,4,287,Other,Admitted,No
+ED0961,36,Female,2024-11-20,5,36,Fever,Discharged,Yes
+ED0962,10,Male,2024-12-09,4,150,Trauma,Admitted,No
+ED0963,76,Male,2024-03-07,5,160,Infection,Admitted,No
+ED0964,2,Female,2024-03-15,5,20,Fever,Discharged,No
+ED0965,32,Male,2024-02-14,4,51,Shortness of Breath,Discharged,No
+ED0966,5,Female,2024-09-16,3,255,Other,Admitted,No
+ED0967,49,Female,2024-06-02,1,191,Chest Pain,Discharged,No
+ED0968,9,Male,2024-06-03,3,35,Chest Pain,Left Without Being Seen,No
+ED0969,4,Female,2024-12-28,3,264,Shortness of Breath,Discharged,No
+ED0970,22,Female,2024-08-21,3,21,Trauma,Discharged,No
+ED0971,9,Female,2024-02-20,3,43,Trauma,Discharged,Yes
+ED0972,43,Male,2024-11-01,5,43,Chest Pain,Left Without Being Seen,No
+ED0973,1,Male,2024-09-18,4,136,Chest Pain,Discharged,No
+ED0974,12,Male,2024-11-10,4,34,Shortness of Breath,Admitted,No
+ED0975,39,Male,2024-05-04,3,162,Chest Pain,Admitted,No
+ED0976,1,Male,2024-09-01,1,282,Fever,Discharged,No
+ED0977,83,Female,2024-01-30,1,207,Abdominal Pain,Discharged,No
+ED0978,64,Male,2024-05-01,3,70,Fever,Admitted,No
+ED0979,62,Female,2024-05-04,1,112,Chest Pain,Discharged,No
+ED0980,72,Female,2024-02-06,1,272,Shortness of Breath,Admitted,No
+ED0981,16,Female,2024-06-18,5,226,Chest Pain,Discharged,No
+ED0982,8,Male,2024-05-03,4,296,Shortness of Breath,Discharged,No
+ED0983,74,Female,2024-12-22,3,22,Infection,Admitted,No
+ED0984,14,Male,2024-02-04,2,94,Fever,Discharged,Yes
+ED0985,23,Male,2024-03-27,3,185,Headache,Discharged,No
+ED0986,37,Female,2024-05-13,1,259,Fever,Discharged,No
+ED0987,34,Male,2024-07-14,5,257,Fever,Discharged,No
+ED0988,48,Male,2024-09-30,3,261,Infection,Discharged,No
+ED0989,68,Female,2024-07-19,3,91,Infection,Admitted,Yes
+ED0990,61,Male,2024-10-11,3,94,Trauma,Discharged,No
+ED0991,59,Male,2024-03-17,1,241,Abdominal Pain,Discharged,No
+ED0992,49,Male,2024-02-28,3,74,Other,Discharged,No
+ED0993,77,Female,2024-05-05,4,48,Other,Discharged,No
+ED0994,74,Female,2024-04-18,3,204,Headache,Discharged,Yes
+ED0995,8,Male,2024-08-11,2,156,Fever,Admitted,No
+ED0996,33,Male,2024-10-04,3,90,Trauma,Admitted,Yes
+ED0997,75,Male,2024-03-08,3,23,Other,Discharged,No
+ED0998,34,Male,2024-03-09,4,105,Chest Pain,Discharged,No
+ED0999,0,Female,2024-06-13,3,99,Headache,Discharged,No
+ED1000,39,Male,2024-10-31,3,258,Trauma,Discharged,No
